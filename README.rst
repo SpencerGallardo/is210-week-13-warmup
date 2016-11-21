@@ -153,8 +153,8 @@ Examples
 .. code:: pycon
 
     >>> get_market_density('green_markets.json')
-    {'STATEN ISLAND': 2, 'BROOKLYN': 48, 'BRONX': 32,
-    'MANHATTAN': 39, 'QUEENS': 16}
+    {u'STATEN ISLAND': 2, u'BROOKLYN': 48, u'BRONX': 32,
+    u'MANHATTAN': 39, u'QUEENS': 16}
 
 .. note::
 
